@@ -1,0 +1,5 @@
+#!name=DoT
+#!desc=Description Here
+
+[General]
+dns-server=1.1.1.1:853,dns.google:853
