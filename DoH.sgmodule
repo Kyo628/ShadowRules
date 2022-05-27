@@ -1,0 +1,5 @@
+#!name=DoH
+#!desc=Description Here
+
+[General]
+dns-server= https://1.1.1.1/dns-query,https://dns.google/dns-query
