@@ -1,5 +1,6 @@
 #!name=LINE
 #!desc=Description Here
+
 [Rule]
 DOMAIN-SUFFIX,crs-event.line.me,DIRECT
 DOMAIN-SUFFIX,ts.line-apps.com,DIRECT
