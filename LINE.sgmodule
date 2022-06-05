@@ -2,6 +2,7 @@
 #!desc=Description Here
 
 [Rule]
+DOMAIN-SUFFIX,live.line.me,DIRECT
 DOMAIN-SUFFIX,crs-event.line.me,DIRECT
 DOMAIN-SUFFIX,ts.line-apps.com,DIRECT
 DOMAIN-SUFFIX,oamm.line-scdn.net,DIRECT
