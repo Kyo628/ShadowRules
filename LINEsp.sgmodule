@@ -1,0 +1,10 @@
+#!name=LINEsp
+#!desc=Description Here
+
+[Rule]
+DOMAIN-SUFFIX,cdn.softbank.jp,DIRECT
+DOMAIN-SUFFIX,care.linemo.jp,DIRECT
+DOMAIN-SUFFIX,gw.line.naver.jp,DIRECT
+DOMAIN-SUFFIX,line-apps.com,DIRECT
+DOMAIN-SUFFIX,line.me,DIRECT
+DOMAIN-SUFFIX,line-scdn.net,DIRECT
