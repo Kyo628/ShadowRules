@@ -2,6 +2,16 @@
 #!desc=Description Here
 
 [Rule]
+DOMAIN-SUFFIX,log-music-data.line-apps.com,DIRECT
+DOMAIN-SUFFIX,music-jp-dn.line-apps.com,DIRECT
+DOMAIN-SUFFIX,gasket-seiren.line-apps.com,DIRECT
+DOMAIN-SUFFIX,lan3rd.line.me,DIRECT
+DOMAIN-SUFFIX,webi-party-music.line-apps.com,DIRECT
+DOMAIN-SUFFIX,music-jp-api.line-apps.com,DIRECT
+DOMAIN-SUFFIX,stickershop.line-scdn.net,DIRECT
+DOMAIN-SUFFIX,news-obs-jp.line-scdn.net,DIRECT
+DOMAIN-SUFFIX,crs-hometab-event.line.me,DIRECT
+DOMAIN-SUFFIX,ch-news.line-apps.com,DIRECT
 DOMAIN-SUFFIX,live.line.me,DIRECT
 DOMAIN-SUFFIX,crs-event.line.me,DIRECT
 DOMAIN-SUFFIX,ts.line-apps.com,DIRECT
