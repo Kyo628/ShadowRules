@@ -2,6 +2,10 @@
 #!desc=Description Here
 
 [Rule]
+DOMAIN-SUFFIX,sentry-uit.line-apps.com,DIRECT
+DOMAIN-SUFFIX,relay-sentry-fp.line-apps.com,DIRECT
+DOMAIN-SUFFIX,web-pay.line.me,DIRECT
+DOMAIN-SUFFIX,points.line.me,DIRECT
 DOMAIN-SUFFIX,pay-webapp.line-apps.com,DIRECT
 DOMAIN-SUFFIX,fwgw-pay.line-apps.com,DIRECT
 DOMAIN-SUFFIX,log-music-data.line-apps.com,DIRECT
