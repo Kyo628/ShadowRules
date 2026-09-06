@@ -2,6 +2,7 @@
 #!desc=Description Here
 
 [Rule]
+DOMAIN-SUFFIX,stickershop.line.me,PROXY
 DOMAIN-SUFFIX,openchat-vdn.line-scdn.net,PROXY
 DOMAIN-SUFFIX,shop.line-scdn.net,PROXY
 DOMAIN-SUFFIX,stickershop.line-scdn.net,PROXY
