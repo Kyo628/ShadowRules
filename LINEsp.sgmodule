@@ -2,6 +2,10 @@
 #!desc=Description Here
 
 [Rule]
+DOMAIN-SUFFIX,ai-friends-web.line-apps.com,PROXY
+DOMAIN-SUFFIX,ai-friends-api-server.line-apps.com,PROXY
+DOMAIN-SUFFIX,ai-friends-character-image-obs.line-scdn.net,PROXY
+DOMAIN-SUFFIX,ai-friends-obs.line-scdn.net,PROXY
 DOMAIN-SUFFIX,openchat-jp.line.me,PROXY
 DOMAIN-SUFFIX,stickershop.line.me,PROXY
 DOMAIN-SUFFIX,openchat-vdn.line-scdn.net,PROXY
